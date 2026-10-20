@@ -1,5 +1,5 @@
 # Hi there, I'm Ken Baker! 👋
-<img width="4320" height="4320" alt="poplar bend-rev2" src="https://github.com/user-attachments/assets/52b69086-9c1c-43a6-8c08-e5e63cbaea5c" />
+<img width="1200" height="1200" alt="poplar bend-rev2" src="https://github.com/user-attachments/assets/52b69086-9c1c-43a6-8c08-e5e63cbaea5c" />
 
 
 ## About Me 🚀
