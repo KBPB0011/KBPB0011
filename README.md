@@ -17,6 +17,6 @@ I'm a consultant with experience in executive management and technical developme
 ## Get in Touch 📬
 
 - **Website - www.poplarbend.com**
-- **LinkedIn - (https://www.linkedin.com/in/kenfbakerjr/)**
+- **LinkedIn - https://www.linkedin.com/in/kenfbakerjr/**
 
 
